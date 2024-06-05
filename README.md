@@ -1,2 +1,2 @@
-# hadoop-sandbox-attempt
+# hadoop sandbox attempt
 This was an experience. 
